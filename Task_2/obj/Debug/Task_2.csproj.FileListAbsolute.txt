@@ -1,0 +1,15 @@
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\bin\Debug\Task_2.exe
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\MainWindow.g.cs
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\App.g.cs
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2_MarkupCompile.cache
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2_MarkupCompile.lref
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\MainWindow.baml
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2.g.resources
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2.exe
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache

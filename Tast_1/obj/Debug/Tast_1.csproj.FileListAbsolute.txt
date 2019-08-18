@@ -1,0 +1,15 @@
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\bin\Debug\Tast_1.exe.config
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\bin\Debug\Tast_1.exe
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\bin\Debug\Tast_1.pdb
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1.csprojAssemblyReference.cache
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\MainWindow.g.cs
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\App.g.cs
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1_MarkupCompile.cache
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1_MarkupCompile.lref
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\MainWindow.baml
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1.g.resources
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1.Properties.Resources.resources
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1.csproj.GenerateResource.cache
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1.csproj.CoreCompileInputs.cache
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1.exe
+C:\Users\Zigo\Source\Repos\DigitallyInspiredTesting\Tast_1\obj\Debug\Tast_1.pdb

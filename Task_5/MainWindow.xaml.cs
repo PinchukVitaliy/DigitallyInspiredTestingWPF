@@ -30,7 +30,7 @@ namespace Task_5
         private void AddData()
         {
             ModelImporter importer = new ModelImporter();
-            Model3D model = importer.Load("C:/Users/Zigo/Downloads/wwnnsthl4k-LibertyStatue/LibertyStatue/LibertStatue.obj");
+            Model3D model = importer.Load("start obj file");
             d3ModelsList.Add(new D3Model() { id = 1, Name ="test", ModelD3= model});
             Models.Content = model;
         }
